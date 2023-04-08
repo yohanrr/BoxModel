@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Box Model Example</title>
+	<link rel="stylesheet" href="Box.css">
+</head>
+<body>
+<div class="box">
+	<h1>Box Model Example</h1>
+	<p> This is some content inside the box.</p>
+	</div>
+</body>
+</html>	
